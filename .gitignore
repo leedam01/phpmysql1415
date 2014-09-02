@@ -1,0 +1,6 @@
+.DS_Store
+.vagrant
+.metadata
+/Veranstaltung02/delsener/netbeans_project/nbproject/private/
+
+workspace.xml
